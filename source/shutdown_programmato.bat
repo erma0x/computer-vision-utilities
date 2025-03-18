@@ -1,0 +1,1 @@
+shutdown /s /f /t 7200 /c "Il computer si spegnerà tra 2 ore"
