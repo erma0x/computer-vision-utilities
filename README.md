@@ -1,2 +1,2 @@
 # utilities
-Utilities python scripts for managing and testing AuthAI &amp; pymailer projects
+Utilities python scripts for managing and testing face recognition and email automation
